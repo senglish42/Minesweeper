@@ -1,0 +1,1 @@
+fun makeDecision() = "Rock Paper Scissors".split(' ').random()
